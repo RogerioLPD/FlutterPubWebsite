@@ -2,7 +2,7 @@
 # [Pub.dev Website - Rebuilt in Flutter](https://gallery.codelessly.com/flutterwebsites/pub)
 [![Flutter Responsive](https://img.shields.io/badge/flutter-responsive-brightgreen.svg?style=flat-square)](https://github.com/Codelessly/ResponsiveFramework) [![GitHub release](https://img.shields.io/github/release/Codelessly/FlutterPubWebsite.svg?style=flat-square)](https://github.com/Codelessly/FlutterPubWebsite/releases) [![GitHub Release Date](https://img.shields.io/github/release-date/Codelessly/FlutterPubWebsite.svg?style=flat-square)](https://github.com/Codelessly/FlutterPubWebsite/releases) [![GitHub issues](https://img.shields.io/github/issues/Codelessly/FlutterPubWebsite.svg?style=flat-square)](https://github.com/Codelessly/FlutterPubWebsite/issues) [![GitHub top language](https://img.shields.io/github/languages/top/Codelessly/FlutterPubWebsite.svg?style=flat-square)](https://github.com/Codelessly/FlutterPubWebsite) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Codelessly/FlutterPubWebsite.svg?style=flat-square)](https://github.com/Codelessly/FlutterPubWebsite) [![License](https://img.shields.io/badge/License-BSD%200--Clause-orange.svg?style=flat-square)](https://opensource.org/licenses/0BSD)
 
-<a href="https://gallery.codelessly.com/flutterwebsites/pub?utm_medium=image&utm_campaign=logo"><img src="web/icons/Icon-192.png" width="128"></a>
+<a href=""><img src="web/icons/Icon-192.png" width="128"></a>
 
 > ### The pub.dev website, rebuilt in Flutter with 💙!
 

@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "744060958744",
+    "project_id": "kienim-88c11",
+    "storage_bucket": "kienim-88c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744060958744:android:619cd6be6b4a4f080feb6d",
+        "android_client_info": {
+          "package_name": "br.com.store.uzzubbiju.loja_uzzubiju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOz0cgRhyzlXKnBCpTd1MnJSof_VMGT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744060958744-1a7efak7j5eouv94oksic1isjlarob9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.store.uzzubbiju.lojaUzzubiju"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744060958744:android:76368f1020747e730feb6d",
+        "android_client_info": {
+          "package_name": "com.example.kienim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOz0cgRhyzlXKnBCpTd1MnJSof_VMGT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744060958744-1a7efak7j5eouv94oksic1isjlarob9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.store.uzzubbiju.lojaUzzubiju"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744060958744:android:ecdbfbf3aa889bdf0feb6d",
+        "android_client_info": {
+          "package_name": "com.example.remap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOz0cgRhyzlXKnBCpTd1MnJSof_VMGT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744060958744-1a7efak7j5eouv94oksic1isjlarob9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.store.uzzubbiju.lojaUzzubiju"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744060958744:android:dea77993e3b396840feb6d",
+        "android_client_info": {
+          "package_name": "com.pubdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOz0cgRhyzlXKnBCpTd1MnJSof_VMGT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744060958744-k2hfcek4b0k9o86mbo7rnu0s1eceslt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744060958744-1a7efak7j5eouv94oksic1isjlarob9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.store.uzzubbiju.lojaUzzubiju"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

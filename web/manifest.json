@@ -1,11 +1,11 @@
 {
-    "name": "pub_dev",
-    "short_name": "pub_dev",
+    "name": "Kienim",
+    "short_name": "Kienim",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The pub.dev website recreated in Flutter",
+    "description": "Kienim",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
